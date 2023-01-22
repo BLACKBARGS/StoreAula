@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JRQxzFBMMTj3ktRilcKD5GYjftqGYhnPrBGQUVtETszBsC5w3zoshn2ox0usdaQ6gJN7MVrqrVM/2RKCSi5Udg==",
+  "dgSpecHash": "E3zF5sqaShuumzawf+C8s4Hb73MnIZ3AtIANlC6Tj6UluZU/2/SVuMojB6xnwMd/STV1WvKty64nRCxb3EFXqw==",
   "success": true,
   "projectFilePath": "C:\\Users\\itzsa\\Desktop\\StoreAula\\store.domain\\store.domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\itzsa\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
