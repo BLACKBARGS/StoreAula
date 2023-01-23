@@ -1,0 +1,12 @@
+C:\Users\itzsa\Desktop\StoreAula\store.domain\bin\Debug\net7.0\store.domain.deps.json
+C:\Users\itzsa\Desktop\StoreAula\store.domain\bin\Debug\net7.0\store.domain.dll
+C:\Users\itzsa\Desktop\StoreAula\store.domain\bin\Debug\net7.0\store.domain.pdb
+C:\Users\itzsa\Desktop\StoreAula\store.domain\obj\Debug\net7.0\store.domain.csproj.AssemblyReference.cache
+C:\Users\itzsa\Desktop\StoreAula\store.domain\obj\Debug\net7.0\store.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itzsa\Desktop\StoreAula\store.domain\obj\Debug\net7.0\store.domain.AssemblyInfoInputs.cache
+C:\Users\itzsa\Desktop\StoreAula\store.domain\obj\Debug\net7.0\store.domain.AssemblyInfo.cs
+C:\Users\itzsa\Desktop\StoreAula\store.domain\obj\Debug\net7.0\store.domain.csproj.CoreCompileInputs.cache
+C:\Users\itzsa\Desktop\StoreAula\store.domain\obj\Debug\net7.0\store.domain.dll
+C:\Users\itzsa\Desktop\StoreAula\store.domain\obj\Debug\net7.0\refint\store.domain.dll
+C:\Users\itzsa\Desktop\StoreAula\store.domain\obj\Debug\net7.0\store.domain.pdb
+C:\Users\itzsa\Desktop\StoreAula\store.domain\obj\Debug\net7.0\ref\store.domain.dll
