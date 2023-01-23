@@ -9,9 +9,9 @@ public class Order : Entity
     public Order(Customer customer, decimal deliveryFee, Discount discount)
     {
         AddNotification(
-        new Contract<Notification>()
-        .Requires()
-        .IsNotNull(customer, "Customer", "Invalid Client")
+            new Contract<Notification>()
+                .Requires()
+                .IsNotNull(customer, "Customer", "Invalid Client")
         );
 
         Customer = customer;
@@ -39,7 +39,8 @@ public class Order : Entity
     public void AddItem(Product product, int quantity)
     {
         var item = new OrderItem(product, quantity);
-        Items.Add(item);
+        if (item.IsValid)
+            Items.Add(item);
     }
 
     public decimal Total()
@@ -51,11 +52,10 @@ public class Order : Entity
         }
         total += DeliveryFee;
         total -= Discount != null ? Discount.Value() : 0;
-
         return total;
     }
 
-    public void Pay(decimal amount)
+    public void Pay (decimal amount)
     {
         if (Total() == amount)
             this.Status = EOrderStatus.WaitingDelivery;
